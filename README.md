@@ -1,0 +1,1 @@
+The Flask mega-tutorial (https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) is a very well written tutorial on building flask apps. This short project sets out the broad layout for a data-science Flask app using the general principles of the mega-tutorial.
